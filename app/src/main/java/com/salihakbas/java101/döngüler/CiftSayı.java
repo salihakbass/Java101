@@ -19,6 +19,6 @@ public class CiftSayı {
         }
         ortalama = toplam / uzunluk;
         System.out.println("Ortalama: " + ortalama);
-        
+
     }
 }
