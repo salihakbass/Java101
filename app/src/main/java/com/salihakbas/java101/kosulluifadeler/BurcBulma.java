@@ -1,4 +1,4 @@
-package com.salihakbas.java101;
+package com.salihakbas.java101.kosulluifadeler;
 
 import java.util.Scanner;
 
