@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class ElemanlarıSıralama {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         System.out.print("Dizinin boyutunu giriniz: ");
         int n = input.nextInt();
