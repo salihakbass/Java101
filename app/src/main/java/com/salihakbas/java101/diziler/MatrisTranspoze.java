@@ -8,7 +8,7 @@ public class MatrisTranspoze {
         print(matris);
         System.out.println("After the change");
         transpoze(matris);
-        
+
 
     }
     static void transpoze(int[][] matris) {
